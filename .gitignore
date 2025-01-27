@@ -1,0 +1,10 @@
+# Ignore history and GitHub files
+.history/
+.github/
+
+# Ignore compiled files and executables
+*.exe
+*.o
+
+# Ignore VS Code settings
+.vscode/
